@@ -43,6 +43,21 @@ Features
 6. Log in as Administrator (default credentials if provided) and start using.
 
 
+Usage
+– Administrator: Manage employees, departments, roles; track attendance; run payroll; view reports.
+– Employee: View personal dashboard, attendance status, payroll history, and update username/password.
+– Navigate using the menu: Employees, Departments, Roles, Attendance, Payroll, Reports.
+– Use search, filters, and reporting tools for easier data management.
+
+
+Contributing
+
+1. Fork the repository
+2. Create a branch: git checkout -b feature/YourFeature
+3. Make your changes
+4. Commit: git commit -m "Add feature"
+5. Push: git push origin feature/YourFeature
+6. Open a Pull Request for review
 
 
 
@@ -50,6 +65,6 @@ Features
 
 
 
-en a Pull Request for review
+
 
 
