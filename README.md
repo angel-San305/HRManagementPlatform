@@ -1,20 +1,30 @@
 # HR Management Platform
 A web-based HR management system that automates employee profiles, department and role management, attendance tracking, payroll processing, and dashboard reporting. Administrators can efficiently manage employee data while employees can access their personal dashboard, including the ability to update their username and password.
 
-Features
+## Features
 ## Features
 - Role-based access (Admin vs Employee)
 - Employee management (Add, Edit, Delete, View)
 - Department management (Add, Edit, Delete, View)
 - Role management (Add, Edit, Delete, View)
-- Attendance tracking (Check-in, Check-out, Logs)
-- Payroll management (Salary, Deductions, Reports)
-- Dashboard for Admin and Employees
+- Attendance tracking:
+  - Admin: mark employees as Present, Absent, or Late
+  - Employee: mark themselves as Present, Absent, or Late
+- Payroll management:
+  - Automatically calculates net salary based on attendance (Present, Absent, Late) each month
+  - Includes salary, deductions, and payroll summaries on the dashboard
+- Dashboard for Admin and Employees to view attendance and payroll summaries
 - Employees can change their username and password
-- Search, filter, and reporting functionalities
+- Search and filter functionalities
 - Responsive UI
 
+## Usage
 
+- **Administrator**: Manage employees, departments, roles; mark attendance; view payroll and attendance summaries; run payroll.  
+- **Employee**: View personal dashboard, attendance status, payroll history, update username/password, and mark their own attendance (Present, Absent, or Late).  
+- Navigate using the menu: Employees, Departments, Roles, Attendance, Payroll.  
+- Use search and filter tools for easier data management.
+  
 ## Technologies Used
 - ASP.NET Web Forms / C#
 - SQL Server / T-SQL
@@ -43,16 +53,6 @@ Features
 6. Log in as Administrator (default credentials if provided) and start using.
 
 
-Usage
-
-– Administrator: Manage employees, departments, roles; track attendance; run payroll; view reports.
-
-– Employee: View personal dashboard, attendance status, payroll history, and update username/password.
-
-– Navigate using the menu: Employees, Departments, Roles, Attendance, Payroll, Reports.
-
-– Use search, filters, and reporting tools for easier data management.
-
 
 Contributing
 
@@ -65,7 +65,10 @@ Contributing
 
 
 
+## License
 
+This project is provided **as-is** for learning or internal use.  
+You may modify or use it for personal projects but do not redistribute without permission. urure
 
 
 
