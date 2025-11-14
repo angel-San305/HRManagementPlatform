@@ -1,7 +1,7 @@
 # HR Management Platform
 A web-based HR management system that automates employee profiles, department and role management, attendance tracking, payroll processing, and dashboard reporting. Administrators can efficiently manage employee data while employees can access their personal dashboard, including the ability to update their username and password.
 
-## Features
+
 ## Features
 - Role-based access (Admin vs Employee)
 - Employee management (Add, Edit, Delete, View)
@@ -68,7 +68,7 @@ Contributing
 ## License
 
 This project is provided **as-is** for learning or internal use.  
-You may modify or use it for personal projects but do not redistribute without permission. urure
+You may modify or use it for personal projects but do not redistribute without permission. 
 
 
 
