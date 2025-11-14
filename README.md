@@ -44,6 +44,7 @@ Features
 
 
 Usage
+
 – Administrator: Manage employees, departments, roles; track attendance; run payroll; view reports.
 – Employee: View personal dashboard, attendance status, payroll history, and update username/password.
 – Navigate using the menu: Employees, Departments, Roles, Attendance, Payroll, Reports.
